@@ -5,7 +5,7 @@ REVERSE DONE BY Md Sabbir Bhai
 
 """
 
-#-----------------[ ASHIK-King ]-------------------#
+#-----------------[ Md Sabbir Bhai ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
@@ -22,7 +22,7 @@ from rich.text import Text as tekz
 from time import localtime as lt
 pretty.install()
 CON=sol()
- #------------------[ ASHIK-King ]-------------------#
+ #------------------[ Md Sabbir Bhai ]-------------------#
 import os, platform, time, sys
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
@@ -37,16 +37,16 @@ os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
 #os.system('clear')
 print('\033[97;1m[\x1b[38;5;50m+\033[97;1m] \x1b[38;5;50mUPDATE VERSHON 6.3V...! ')
-os.system("espeak -a 300 \"UPDATE VERSION 6.3V,\"")
+os.system("espeak -a 300 \"Welcome to Md Sabbir bhai UPDATE VERSION 8.3V,\"")
 time.sleep(2)
 #os.system('clear')
-print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m Joine MY Facebook Group..!")
-os.system("espeak -a 300 \"Joine,MY, Facebook, Group,\"")
+print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m Joine  MY Facebook group.!")
+os.system("espeak -a 300 \"Joine ,MY, Facebook, Group,\"")
 time.sleep(2)
-os.system(f'xdg-open https://www.facebook.com/groups//?ref=share_group_link')
-os.system(f'xdg-open ')
+os.system(f'xdg-open https://www.facebook.com/groups/136091586257336/?ref=share_group_link)
+os.system(f'xdg-open https://www.facebook.com/groups/136091586257336/?ref=share')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
-#------------------[ ASHIK-King ]-------------------#
+#------------------[ Sabbir-Bhai ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 10; SM-A405FN Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/432.0.0.29.102",]
 ua = ["Mozilla/5.0 (Linux; Android 11; SM-A127F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/431.0.0.30.108",]
@@ -65,7 +65,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/MAHADI-143/BDMC/blob/main/.prox.txt').text
+    prox= requests.get('https://github.com/Rdx337/Sabbiropi/blob/main/prox.txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -133,7 +133,7 @@ pwpluss,pwnya=[],[]
  
  
 
-#------------[ ASHIK- ]--------------#
+#------------[ MD Sabbir- ]--------------#
  
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
@@ -222,10 +222,10 @@ def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system('xdg-open https://www.facebook.com/ashik.khan444?mibextid=b06tZ0')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100089747571096&mibextid=ZbWKwL')
 logo =(f"""
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;46m██████      █████  ███████ ██   ██ ██ ██   ██ \033[1;91m|
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;46m \033[1;91m|
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;47m██   ██    ██   ██ ██      ██   ██ ██ ██  ██  \033[1;91m|
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;48m██████     ███████ ███████ ███████ ██ █████   \033[1;91m|
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;49m██   ██    ██   ██      ██ ██   ██ ██ ██  ██  \033[1;91m|
@@ -256,7 +256,7 @@ def meyexudi():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/RX-ASHIK/approval./blob/main/Ap.txt').text
+    httpCaht = requests.get('https://github.com/Rdx337/Sabbiropi/blob/main/Ap.txt').text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
@@ -283,13 +283,13 @@ def meyexudi():
   except:
     sys.exit()
 meyexudi()
-#os.system("python ASHIK.py")
+#os.system("python Sabbirrdxi.py")
 def naima():
 	print('-------------------')
 print(logo)
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 uname =input('\033[1;91m[\033[1;92m√\033[1;91m] \x1b[38;5;50mENTER YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  ASHIK,  V I P,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  SABBIR BHAI,  V I P,  Tools"')
 def back():
 	login()
 	
@@ -301,7 +301,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'ASHIK' and password == '63':
+    if username == 'SABBIR' and password == '1122':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
     else:
