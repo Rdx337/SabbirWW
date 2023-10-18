@@ -44,8 +44,6 @@ print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m SUBSCRIBE MY TELEGRAM C
 os.system("espeak -a 300 \"SUBSCRIBE,MY, TELEGRAM,CHANNEL,\"")
 time.sleep(2)
 os.system(f'xdg-open https://www.facebook.com/groups/136091586257336/?ref=share_group_link')
-
-)
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ SABBBIR-BHAI ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
