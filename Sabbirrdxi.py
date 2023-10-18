@@ -41,9 +41,8 @@ os.system("espeak -a 300 \"Welcome to Md Sabbir bhai UPDATE VERSION 8.3V,\"")
 time.sleep(2)
 #os.system('clear')
 print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m Joine  MY Facebook group.!")
-os.system("espeak -a 300 \"Joine ,MY, Facebook, Group,\"")
+os.system("espeak -a 300 \"Sabbir ,Bhai, Dark, Group,\"")
 time.sleep(2)
-os.system(f'xdg-open )
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ Sabbir-Bhai ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
