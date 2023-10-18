@@ -222,8 +222,7 @@ def linex():
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
 os.system('xdg-open https://www.facebook.com/profile.php?id=100089747571096&mibextid=ZbWKwL')
-logo =(f""         
-  __  __    _   ___       _    _    _       ___      
+logo = __  __    _   ___       _    _    _       ___      
  |  \/  |__| | / __| __ _| |__| |__(_)_ _  / __|_ _  
  | |\/| / _` | \__ \/ _` | '_ \ '_ \ | '_| \__ \ '_| 
  |_|  |_\__,_| |___/\__,_|_.__/_.__/_|_|   |___/_|   
