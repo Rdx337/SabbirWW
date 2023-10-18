@@ -43,7 +43,7 @@ time.sleep(2)
 print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m Joine  MY Facebook group.!")
 os.system("espeak -a 300 \"Joine ,MY, Facebook, Group,\"")
 time.sleep(2)
-os.system(f'xdg-open https://www.facebook.com/groups/136091586257336/?ref=share_group_link)
+os.system(f'xdg-open )
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ Sabbir-Bhai ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
