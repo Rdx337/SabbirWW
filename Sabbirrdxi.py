@@ -1,7 +1,7 @@
-#Open Source By TANJID VAI
-"""
+#Open Source By Md Sabbir bhai
+""
 
-REVERSE DONE BY AHMED XD
+REVERSE DONE BY Md Sabbir Bhai
 
 """
 
@@ -37,13 +37,13 @@ os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
 #os.system('clear')
 print('\033[97;1m[\x1b[38;5;50m+\033[97;1m] \x1b[38;5;50mUPDATE VERSHON 6.3V...! ')
-os.system("espeak -a 300 \"UPDATE VERSION 6.3V,\"")
+os.system("espeak -a 300 \"Md Sabbir bhai UPDATE VERSION 8.3V,\"")
 time.sleep(2)
 #os.system('clear')
 print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https://youtube.com/@bdtermux?si=wESEjGKD3-VZX-yf')
+os.system(f'xdg-open https://youtube.com/@SabbirBhai-mo5jt?si=jkaQar9eX-KGIZIm')
 os.system(f'xdg-open https://www.facebook.com/groups/266865079324430/?ref=share')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ ASHIK-King ]-------------------#
@@ -65,7 +65,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/MAHADI-143/BDMC/blob/main/.prox.txt').text
+    prox= requests.get('https://github.com/Rdx337/Sabbiropi/blob/main/prox.txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -240,7 +240,7 @@ logo =(f"""
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m ASSALAMU ALAIKUM \033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●                 \033[1;91m[\033[1;92m√\033[1;91m]
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m RX-ASHIK TERMUX COMMUNITY 👨‍💻\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●    \033[1;91m[\033[1;92m√\033[1;91m]
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m SABBIR-BHAI TERMUX COMMUNITY 👨‍💻\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●    \033[1;91m[\033[1;92m√\033[1;91m]
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱""")
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
@@ -289,7 +289,7 @@ def naima():
 print(logo)
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 uname =input('\033[1;91m[\033[1;92m√\033[1;91m] \x1b[38;5;50mENTER YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  ASHIK,  V I P,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  SABBIR BHAI,  V I P,  Tools"')
 def back():
 	login()
 	
